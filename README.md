@@ -24,4 +24,5 @@ To run this project, install it locally using ```npm```:
  yarn
  yarn dev
 ```
- 
+## Open in browser
+open you browser and this project will be hosted on [LocalHost](http://localhost:3000/)
