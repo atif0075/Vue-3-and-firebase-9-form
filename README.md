@@ -16,7 +16,7 @@ To run this project, install it locally using npm:
 ```
 $ cd ../Vue-3-and-firebase-9-form
 $ npm install
-$ npm run dev
+ npm run dev
 ```
 
  or yarn
