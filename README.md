@@ -11,15 +11,15 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 * Vite
 * 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using ```npm```:
 
 ```
-
  npm install
  npm run dev
 ```
 
- or yarn
+ or ```yarn```
+ 
  ```
  yarn
  yarn dev
