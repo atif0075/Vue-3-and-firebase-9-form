@@ -14,15 +14,14 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 To run this project, install it locally using npm:
 
 ```
-$ cd ../Vue-3-and-firebase-9-form
-$ npm install
+
+ npm install
  npm run dev
 ```
 
  or yarn
  ```
-$ cd ../Vue-3-and-firebase-9-form
-$ yarn
-$ yarn dev
+ yarn
+ yarn dev
 ```
  
