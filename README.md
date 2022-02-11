@@ -9,5 +9,20 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 * Vue 3
 * Firebase 9
 * Vite
-## First Step
-- ``` npm install ``` or ``` yarn ```
+* 
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../Vue-3-and-firebase-9-form
+$ npm install
+$ npm run dev
+```
+
+ or yarn
+ ```
+$ cd ../Vue-3-and-firebase-9-form
+$ yarn
+$ yarn dev
+```
+ 
