@@ -9,7 +9,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 * Vue 3
 * Firebase 9
 * Vite
-* 
+* Tailwindcss
 ## Setup
 To run this project, install it locally using ```npm```:
 
