@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
 
     // apiKey: process.env.SOME_KEY,
-    apiKey: "AIzaSyAsR8HUGHGCqYB7yySslQvt2VmuUQd_w7Q",
+    apiKey: process.env.API_KEY,
     authDomain: "vue-form-7e151.firebaseapp.com",
     projectId: "vue-form-7e151",
     storageBucket: "vue-form-7e151.appspot.com",
