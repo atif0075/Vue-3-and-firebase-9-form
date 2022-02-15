@@ -26,3 +26,5 @@ To run this project, install it locally using ```npm```:
 ```
 ## Open in browser
 open you browser and this project will be hosted on [LocalHost](http://localhost:3000/)
+## Live Preview
+You can preview this at [VueFirebaseForm](https://vue-firebase-form.netlify.app/)
